@@ -18,9 +18,13 @@ Furthermore, we include questions about leisure budget and repeat experiences to
 
 ## Technology Used
 
+Our leisure satisfaction survey application was implemented using a powerful combination of technologies that ensured a robust and scalable web platform. We chose to build our application on top of the Laravel PHP framework, which offered several key benefits, including a modular structure, strong community support, built-in security features, performance optimization tools, and testing capabilities.
+
 To enhance user experience, we also utilized JavaScript to enable multi-language support and Bootstrap to ensure our website was responsive on devices of all sizes. Additionally, we relied on SQL to provide efficient and reliable data storage and retrieval for our survey results.
 
-##Website Preview:
+## Website Preview:
+<p align="center"><a ><img src="https://user-images.githubusercontent.com/74165165/227379484-2785d5a2-5999-4bd5-887f-b128ca5148f8.png" width="900" alt="Insighter Preview"></a></p>
+
 
 ## Laravel Sponsors
 
